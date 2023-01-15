@@ -1,5 +1,5 @@
 import { createMaterialBottomTabNavigator } from '@react-navigation/material-bottom-tabs';
-import { NavigationContainer, ParamListBase } from '@react-navigation/native';
+import { NavigationContainer } from '@react-navigation/native';
 import { View, Text } from 'native-base';
 import React from 'react';
 import Icon from 'react-native-vector-icons/AntDesign'
