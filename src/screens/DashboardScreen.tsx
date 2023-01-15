@@ -16,7 +16,7 @@ export const DashboardScreen: React.FC<IDashboardProps> = () => {
     const handleWater = () => {
         setWater(water + cupSize);
         toast.show({
-            description: `Você bebeu ${cupSize} de água`
+            description: `Você bebeu ${cupSize} de água!`
         })
     };
 
